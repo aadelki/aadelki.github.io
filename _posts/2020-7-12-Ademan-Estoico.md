@@ -6,7 +6,7 @@ Como verán estuve leyendo algo de filosofía helenística. Obviamente se entien
 
 ![portada](../images/20200712001.png "Ante la necesidad de un tratado pequeño.")
 
-Este texto es uno que repito cada vez que puedo, me ayuda a estar, en menor o mayor medida, bajo control. Mientras vaya aprendiendo más cosas, supongo que le agregaré más contenido. Espero que les guste.
+Este "tratado" es uno que enuncio para mí cada vez que puedo; me ayuda a estar, en menor o mayor medida, bajo control. Mientras vaya aprendiendo más cosas, supongo que le agregaré más contenido. Espero que les guste.
 
 __Cada mañana, como hombre debo recordar las siguientes cuestiones:__
 
