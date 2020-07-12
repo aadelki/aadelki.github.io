@@ -2,11 +2,9 @@
 layout: post
 title: Un simple ademán estoíco
 ---
-
-# Un simple ademán estoíco
-![portada](../images/20200712001.png "Ante la necesidad de un tratado pequeño.")
-
 Como verán estuve leyendo algo de filosofía helenística. Obviamente se entiende que este tipo de filosofía se encasilla en enseñanzas más de carácter morales *(no ignoremos que los estoícos y epicurios también tenían estudios de la naturaleza)*. Pesé aún no entender las grandes cuestiones del mundo y sus complejidades, las palabras de estos pensadores (Sean Marco Aurelio, Epícteto, Séneca) han calado en mí.
+
+![portada](../images/20200712001.png "Ante la necesidad de un tratado pequeño.")
 
 Este texto es uno que repito cada vez que puedo, me ayuda a estar, en menor o mayor medida, bajo control. Mientras vaya aprendiendo más cosas, supongo que le agregaré más contenido. Espero que les guste.
 
